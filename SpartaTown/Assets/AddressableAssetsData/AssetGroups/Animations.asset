@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animations
+  m_EditorClassIdentifier: 
+  m_GroupName: Animations
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f1b68ad4b1114b54495c99e5ff6b1ab5
+  m_SerializeEntries:
+  - m_GUID: e7aba60f759a1ac40a2ccdd241361995
+    m_Address: Character00.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b75e4db68cf012445b5c16cd6f10a091
+    m_Address: Character01.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5269378b291e1e94fbac8cc8491feb04
+    m_Address: Character02.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 781476f4ee752c547b6e11c2b380568a
+    m_Address: Character03.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc678c0d468a09f43b657791b27f587e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7f15d14173fb94f47a7899e4171451ae, type: 2}
+    - {fileID: 11400000, guid: 77d7e34d6653952448f157a75fd2d1cf, type: 2}
